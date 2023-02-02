@@ -2,11 +2,11 @@
   "Devices": [
    {
       "id": "raspberry Pi",
-      "device_img": "./machine-images/machine-4.png"
+      "device_img": "./machine-images/machine4.png"
     },
     {
       "id": "Arduino",
-      "device_img": "./machine-images/machine-5.png"
+      "device_img": "./machine-images/machine5.png"
     }
     
   ]
